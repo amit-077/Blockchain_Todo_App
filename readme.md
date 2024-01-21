@@ -30,11 +30,11 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/amit-077/Blockchain_Todo_App.git
    ```
 2. Setting up:
-  ```
-  cd ./Blockchain_Todo_App
-  cd my-app
-  npm install
-  ```
+   ```
+   cd ./Blockchain_Todo_App
+   cd my-app
+   npm install
+   ```
 3. Compile and migrate smart contracts:
    ```
    truffle compile
