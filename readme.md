@@ -45,12 +45,12 @@ Before you begin, ensure you have the following installed:
    npm start
    ```
 
-#Usage
+# Usage
 1. Ensure Ganache is running to simulate a local blockchain environment.
 2. Connect Metamask to your local Ganache network.
 3. Open the app in your browser and start adding, updating, and completing tasks on the blockchain.
 
-#Technologies Used
+# Technologies Used
 - Solidity
 - Truffle
 - Ganache
