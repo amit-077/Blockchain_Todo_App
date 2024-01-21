@@ -1,0 +1,49 @@
+.mainDiv {
+  max-width: 60rem;
+  margin: auto;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.inputBox {
+  display: flex;
+  justify-content: center;
+  gap: 0.3rem;
+  margin-top: 3rem;
+}
+
+input {
+  width: 25rem;
+  height: 1.5rem;
+  padding-left: 0.5rem;
+}
+
+input:focus {
+  outline: none;
+}
+
+.addBtn {
+  padding: 0 0.7rem;
+  border-radius: 0.3rem;
+}
+
+.delBtn {
+  height: 1.3rem;
+  cursor: pointer;
+}
+
+.taskDiv {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* gap: 2rem; */
+}
+
+.todoDiv {
+  width: 40%;
+  text-align: center;
+  margin: auto;
+  font-size: 1.3rem;
+}
